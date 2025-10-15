@@ -1,0 +1,3 @@
+[submodule "studi-restaurant-symfony-lts-api"]
+	path = studi-restaurant-symfony-lts-api
+	url = git@github.com:GaetanRole/studi-restaurant-symfony-lts-api.git
