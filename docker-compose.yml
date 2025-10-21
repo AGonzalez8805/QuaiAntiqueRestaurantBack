@@ -61,7 +61,7 @@ services:
     image: phpmyadmin/phpmyadmin
     container_name: quaiAntiqueRestaurant-phpmyadmin
     environment:
-      PMA_HOST: ${PMA_HOST}
+      PMA_HOST: mysql
       PMA_USER: ${PMA_USER}
       PMA_PASSWORD: ${PMA_PASSWORD}
     ports:
